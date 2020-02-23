@@ -1,0 +1,8 @@
+# ignore these files:
+app_test.ipynb
+app-Copy1.py
+climate_v1.ipynb
+
+# ignore these directories/folders:
+__pycache__
+.ipynb_checkpoints
